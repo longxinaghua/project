@@ -1,2 +1,2 @@
 <?php 
-	echo range(1, 90);
+	echo range(1, 900);
